@@ -1,0 +1,82 @@
+[
+  {
+    "file": "01_cover.png",
+    "source": "a_polished_high_detail_arabic_report_cover_poster_1_batch_1.png",
+    "pixels": [
+      1055,
+      1491
+    ]
+  },
+  {
+    "file": "02_compare.png",
+    "source": "a_polished_high_detail_3d_glossy_infographic_on_a_10_batch_1.png",
+    "pixels": [
+      1491,
+      1055
+    ]
+  },
+  {
+    "file": "03_architecture.png",
+    "source": "a_crisp_high_detail_modern_3d_style_arabic_infog_11_batch_2.png",
+    "pixels": [
+      1491,
+      1055
+    ]
+  },
+  {
+    "file": "04_cycle.png",
+    "source": "a_crisp_polished_3d_style_infographic_in_arabic_12_batch_3.png",
+    "pixels": [
+      1491,
+      1055
+    ]
+  },
+  {
+    "file": "05_build.png",
+    "source": "a_crisp_high_detail_glossy_3d_neo_futuristic_inf_13_batch_4.png",
+    "pixels": [
+      1491,
+      1055
+    ]
+  },
+  {
+    "file": "06_management.png",
+    "source": "a_crisp_clean_highly_detailed_3d_futuristic_info_14_batch_5.png",
+    "pixels": [
+      1491,
+      1055
+    ]
+  },
+  {
+    "file": "07_multiagent.png",
+    "source": "a_pristine_detailed_3d_style_infographic_in_arabi_15_batch_1.png",
+    "pixels": [
+      1491,
+      1055
+    ]
+  },
+  {
+    "file": "08_kpi.png",
+    "source": "a_polished_high_detail_futuristic_3d_style_arabi_16_batch_2.png",
+    "pixels": [
+      1491,
+      1055
+    ]
+  },
+  {
+    "file": "09_risks.png",
+    "source": "a_crisp_high_contrast_futuristic_infographic_in_17_batch_3.png",
+    "pixels": [
+      1491,
+      1055
+    ]
+  },
+  {
+    "file": "10_roadmap.png",
+    "source": "a_polished_highly_detailed_arabic_infographic_la_2_batch_2.png",
+    "pixels": [
+      1448,
+      1086
+    ]
+  }
+]
